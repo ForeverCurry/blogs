@@ -1,2 +1,2 @@
-# wavelet and time serises analysis
-the notebook of wavelet methods for time series analysis.
+# the blogs of my learning life
+the notebook of my learning life.
